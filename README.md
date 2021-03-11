@@ -7,7 +7,7 @@
 
 ## Instalar Python
 
-![](img/Instalaciones en Windows.png)
+![](img/Windows.png)
 
 
 ## Instalar Library de Testing
